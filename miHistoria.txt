@@ -3,3 +3,5 @@ Mido 1.83 m pero estoy rellenito de amor.
 
 Estoy camino a ser un gran Porgramador.
 Todos los días pondré todo mi empeño por aprender y practicar.
+Mi primer paso fué aprender logica. 
+Ahora estoy usando Git y la terminal 
