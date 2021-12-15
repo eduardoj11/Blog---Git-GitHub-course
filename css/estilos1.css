@@ -1,7 +1,7 @@
 body 
 {
     text-align: justify;
-    font-family: "Arial";
+    font-family: "Helvetica";
     color: black;
     font-size: 16px;
     margin: 0;
@@ -30,4 +30,10 @@ body
 #container h1, h2
 {
     font-size: 20px;
+}
+#vermas
+{
+    text-align: justify;
+    color: blue;
+    font-weight: bold;
 }
