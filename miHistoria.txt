@@ -9,3 +9,6 @@ Ahora estoy usando Git y la terminal
 
 Mi sueño es trabajar en la industria TI y en futuro fundar mi propia StartUp 
 Mi primer proyecto se llamará Lify
+Explicación de Lify:
+Esta es una aplicación que busca hacer de nuestras ciudades
+sitio mucho más seguros, usando la tecnologia
